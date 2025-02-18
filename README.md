@@ -1,11 +1,11 @@
 # EV-Market-Analysis
 Electric Vehicle Sales Report (2017-2021)
 
-#Overview
+# Overview
 
 This report analyzes electric vehicle (EV) sales trends from 2017 to 2021, covering different EV types and their market impact. The study focuses on two-wheelers, three-     wheelers, four-wheelers, and electric buses.
 
-#Data Summary
+# Data Summary
 
 Year: Sales data from 2017-2021.
                   
@@ -19,7 +19,7 @@ Electric Buses: Public transport adoption.
                   
 Total Car Sales: Aggregated EV market performance.
 
-#Key Insights
+# Key Insights
 
 Sales Growth: Consistent increase in total EV sales, led by two-wheelers.
     
@@ -31,7 +31,7 @@ Rolling Average Trend: Highlights long-term market stability.
     
  Correlation Analysis: Strong link between two- and four-wheeler sales; buses have weaker dependencies.
     
-  #Conclusions
+  # Conclusions
 
 Two-Wheelers Drive Growth: Affordable and efficient, boosted by subsidies.
     
@@ -41,7 +41,7 @@ Commercial EVs Expanding: Rickshaws, tempos, and buses play an increasing role.
     
  Policy & Infrastructure: Charging networks and cost reductions will shape future growth.
 
-#Recommendations
+# Recommendations
 
 Expand Charging Infrastructure
     
